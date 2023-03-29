@@ -15,4 +15,4 @@ jobs:
             uses: MeterianHQ/meterian-github-action@v1.0.12
             with:
               oss: true
-              cli_args: --tags=swift
+              cli_args: --tags=swift --min-licensing=90
