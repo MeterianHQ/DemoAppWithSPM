@@ -1,7 +1,7 @@
 # DemoAppWithSPM
-[![security status](https://www.meterian.io/badge/gh/Andrea-Scuderi/DemoAppWithSPM/security?branch=main)](https://www.meterian.io/report/gh/Andrea-Scuderi/DemoAppWithSPM)
-[![stability status](https://www.meterian.io/badge/gh/Andrea-Scuderi/DemoAppWithSPM/stability?branch=main)](https://www.meterian.io/report/gh/Andrea-Scuderi/DemoAppWithSPM)
-[![licensing status](https://www.meterian.io/badge/gh/Andrea-Scuderi/DemoAppWithSPM/licensing?branch=main)](https://www.meterian.io/report/gh/Andrea-Scuderi/DemoAppWithSPM)
+[![security status](https://www.meterian.io/badge/gh/MeterianHQ/DemoAppWithSPM/security?branch=main)](https://www.meterian.io/report/gh/MeterianHQ/DemoAppWithSPM)
+[![stability status](https://www.meterian.io/badge/gh/MeterianHQ/DemoAppWithSPM/stability?branch=main)](https://www.meterian.io/report/gh/MeterianHQ/DemoAppWithSPM)
+[![licensing status](https://www.meterian.io/badge/gh/MeterianHQ/DemoAppWithSPM/licensing?branch=main)](https://www.meterian.io/report/gh/MeterianHQ/DemoAppWithSPM)
 
 This is a demo applicaton using SwiftPM. Here you can see a sample usage of the Meterian Github Action when applied to an opensource project. In order to have Meterian checking your code you case use this simple workflow:
 
@@ -23,7 +23,6 @@ jobs:
             uses: MeterianHQ/meterian-github-action@v1.0.13
             with:
               oss: true
-              cli_args: --tags=swiftpm
 ```
 You can find more information ad [docs.meterian.io](https://docs.meterian.io), where you can also checkout our [GitHub Action guide](https://docs.meterian.io/guide-your-first-scan/your-first-scan-github-action)
 
