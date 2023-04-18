@@ -1,4 +1,8 @@
 # DemoAppWithSPM
+[![security status](https://www.meterian.io/badge/gh/Andrea-Scuderi/DemoAppWithSPM/security?branch=main)](https://www.meterian.io/report/gh/Andrea-Scuderi/DemoAppWithSPM)
+[![stability status](https://www.meterian.io/badge/gh/Andrea-Scuderi/DemoAppWithSPM/stability?branch=main)](https://www.meterian.io/report/gh/Andrea-Scuderi/DemoAppWithSPM)
+[![licensing status](https://www.meterian.io/badge/gh/Andrea-Scuderi/DemoAppWithSPM/licensing?branch=main)](https://www.meterian.io/report/gh/Andrea-Scuderi/DemoAppWithSPM)
+
 This is a demo applicaton using SwiftPM. Here you can see a sample usage of the Meterian Github Action when applied to an opensource project. In order to have Meterian checking your code you case use this simple workflow:
 
 ```
